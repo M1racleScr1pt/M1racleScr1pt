@@ -18,7 +18,7 @@ Passionate about **Cybersecurity • DevSecOps • AI/ML • Cloud Security**
 ## 🛠 Hands-on Practice
 
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-212121?style=for-the-badge&logo=tryhackme&logoColor=9ECE6A)](https://tryhackme.com/p/M1racleScr1pt)
-[![HackTheBox](https://img.shields.io/badge/HackTheBox-161B22?style=for-the-badge&logo=hackthebox&logoColor=9FF281)](https://app.hackthebox.com/profile/406A77A9C6)  <!-- my actual HTB profile ID or link -->
+[![HackTheBox](https://img.shields.io/badge/HackTheBox-161B22?style=for-the-badge&logo=hackthebox&logoColor=9FF281)](https://app.hackthebox.com/m1raclescr1pt)  <!-- my actual HTB profile ID or link -->
 [![freeCodeCamp](https://img.shields.io/badge/freeCodeCamp-27251F?style=for-the-badge&logo=freecodecamp&logoColor=white)](https://www.freecodecamp.org/M1racleScr1pt)
 
 ## 💡 Open to Collaboration
@@ -30,7 +30,7 @@ Passionate about **Cybersecurity • DevSecOps • AI/ML • Cloud Security**
 
 [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/M1racleScr1pt)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/m1raclescr1pt)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/M1raclescr1pt)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@M1raclescr1pt)
 
 <br/><br/>
 
