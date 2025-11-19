@@ -12,20 +12,25 @@
 
 Passionate about **Cybersecurity • DevSecOps • AI/ML • Cloud Security**
 
-Currently sharpening my skills through:
-- Microsoft Cybersecurity Analyst Professional Certificate
-- ISC² Certified in Cybersecurity
-- Hands-on labs on TryHackMe, HackTheBox, and freeCodeCamp
+## 🌱 Currently Active Learning
+[![Coursera → Microsoft Cybersecurity Analyst Professional Certificate (in progress   •••)](https://img.shields.io/badge/Coursera_→_Microsoft_Cybersecurity_Analyst_Professional_Certificate_(in_progress_•••)-0056D2?style=for-the-badge&logo=Coursera&logoColor=white&labelColor=0056D2&color=0078D4)](https://www.coursera.org/professional-certificates/microsoft-cybersecurity-analyst)
 
-🔭 I’m looking to collaborate on meaningful projects at the intersection of security, AI, and open-source tools  
+## 🛠 Hands-on Practice
+
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-212121?style=for-the-badge&logo=tryhackme&logoColor=9ECE6A)](https://tryhackme.com/p/M1racleScr1pt)
+[![HackTheBox](https://img.shields.io/badge/HackTheBox-161B22?style=for-the-badge&logo=hackthebox&logoColor=9FF281)](https://app.hackthebox.com/profile/406A77A9C6)  <!-- my actual HTB profile ID or link -->
+[![freeCodeCamp](https://img.shields.io/badge/freeCodeCamp-27251F?style=for-the-badge&logo=freecodecamp&logoColor=white)](https://www.freecodecamp.org/M1racleScr1pt)
+
+## 💡 Open to Collaboration
+🔭 I’m looking to collaborate on meaningful projects at the intersection of **security, AI, and open-source tools**  
 🤝 Seeking beginner-friendly contributions in communities driven by clarity and long-term growth  
-💬 Ask me about purposeful cybersecurity, impactful writing, or why discipline beats raw intelligence
+💬 Ask me about cybersecurity and writing
 
 ## 📫 How to reach me
 
 [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/M1racleScr1pt)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/m1raclescr1pt)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@M1raclescr1pt)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/M1raclescr1pt)
 
 <br/><br/>
 
