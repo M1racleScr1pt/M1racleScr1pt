@@ -1,31 +1,40 @@
-<div align="center">
+---
+![Mission](https://img.shields.io/badge/mission-build%2C%20secure%2C%20and%20share%20with%20purpose-brightgreen?style=for-the-badge)
 
-# `M1raclescr1pt`
+![GitHub top language](https://img.shields.io/github/languages/top/M1racleScr1pt/M1racleScr1pt?style=for-the-badge)
+![GitHub last commit](https://img.shields.io/github/last-commit/M1racleScr1pt/M1racleScr1pt?style=for-the-badge)
 
-![Mission](https://img.shields.io/badge/mission-build%2C%20secure%2C%20and%20share%20with%20purpose-brightgreen)
-![GitHub top language](https://img.shields.io/github/languages/top/M1racleScr1pt/M1racleScr1pt)
-![GitHub last commit](https://img.shields.io/github/last-commit/M1racleScr1pt/M1racleScr1pt)
+<br/><br/>
 
-<br />  <!-- optional line break -->
+# Hi there 👋
 
-</div>
+**Undergraduate in Cybersecurity | Self-taught Builder & Lifelong Learner**
 
-# About
-<!--
-M1racleScr1pt/M1racleScr1pt is a special repository because its `README.md` (this file) appears on my GitHub profile.
+Passionate about **Cybersecurity • DevSecOps • AI/ML • Cloud Security**
 
-Here are some ideas to get you started:
--->
-🔭 I’m currently working on developing my abilities in areas like Cybersecurity, DevSecOps, Artificial Intelligence and Machine Learning. I'm also activity involved in developing my skills in any aspect of Writing.
-  I’m currently learning about development and security as an Undergraduate in Cybersecurity and a self learner. I'm currently enrolled in the Microsoft Cybersecurity Analyst Professional Certificate Course, ISC2 Certified in Cybersecurity Course, Cisco's Html Essential Course. I'm actively involved in hands-on learning on platforms like TryHackMe, HackTheBox and FreeCodeCamp.
-  
-I’m looking for help with the development of beginner-friendly projects and initiatives at the crossroads of DevSecOps, AI/ML, and Cloud Security—all within communities driven by clarity, growth, and long-term vision.
-  
-💬 Ask me about my passion, my drive — writing with impact, cybersecurity with purpose, community-driven learning, building tools that make knowledge beautiful, and why I believe discipline isn’t just a habit, but a higher form of intelligence.
+Currently sharpening my skills through:
+- Microsoft Cybersecurity Analyst Professional Certificate
+- ISC² Certified in Cybersecurity
+- Hands-on labs on TryHackMe, HackTheBox, and freeCodeCamp
 
-	
-## How to reach me
+🔭 I’m looking to collaborate on meaningful projects at the intersection of security, AI, and open-source tools  
+🤝 Seeking beginner-friendly contributions in communities driven by clarity and long-term growth  
+💬 Ask me about purposeful cybersecurity, impactful writing, or why discipline beats raw intelligence
+
+## 📫 How to reach me
 
 [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/M1racleScr1pt)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/m1raclescr1pt)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/M1raclescr1pt)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@M1raclescr1pt)
+
+<br/><br/>
+
+## 📊 GitHub Stats
+
+![M1racleScr1pt's GitHub stats](https://github-readme-stats.vercel.app/api?username=M1racleScr1pt&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=FFFFFF&icon_color=58A6FF)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=M1racleScr1pt&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=FFFFFF)
+
+<br/><br/>
+
+---
