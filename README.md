@@ -13,12 +13,12 @@
 Passionate about **Cybersecurity • DevSecOps • AI/ML • Cloud Security**
 
 ## 🌱 Currently Active Learning
-[![Coursera → Microsoft Cybersecurity Analyst Professional Certificate (in progress   •••)](https://img.shields.io/badge/Coursera_→_Microsoft_Cybersecurity_Analyst_Professional_Certificate_(in_progress_•••)-0056D2?style=for-the-badge&logo=Coursera&logoColor=white&labelColor=0056D2&color=0078D4)](https://www.coursera.org/professional-certificates/microsoft-cybersecurity-analyst)
+[![Coursera → Microsoft Cybersecurity Analyst Professional Certificate (in progress   •••)](https://img.shields.io/badge/Coursera_→_Microsoft_Cybersecurity_Analyst_Professional_Certificate_([...]
 
 ## 🛠 Hands-on Practice
 
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-212121?style=for-the-badge&logo=tryhackme&logoColor=9ECE6A)](https://tryhackme.com/p/M1racleScr1pt)
-[![HackTheBox](https://img.shields.io/badge/HackTheBox-161B22?style=for-the-badge&logo=hackthebox&logoColor=9FF281)](https://app.hackthebox.com/m1raclescr1pt)  <!-- my actual HTB profile ID or link -->
+[![HackTheBox](https://img.shields.io/badge/HackTheBox-161B22?style=for-the-badge&logo=hackthebox&logoColor=9FF281)](https://app.hackthebox.com/m1raclescr1pt)  <!-- my actual HTB profile ID or link --[...]
 [![freeCodeCamp](https://img.shields.io/badge/freeCodeCamp-27251F?style=for-the-badge&logo=freecodecamp&logoColor=white)](https://www.freecodecamp.org/M1racleScr1pt)
 
 ## 💡 Open to Collaboration
@@ -34,12 +34,24 @@ Passionate about **Cybersecurity • DevSecOps • AI/ML • Cloud Security**
 
 <br/><br/>
 
-## 📊 GitHub Stats
+## 📈 GitHub Statistics
 
-![M1racleScr1pt's GitHub stats](https://github-readme-stats.vercel.app/api?username=M1racleScr1pt&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=FFFFFF&icon_color=58A6FF)
+<div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=M1racleScr1pt&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=FFFFFF)
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=M1racleScr1pt&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true" alt="M1racleScr1pt's GitHub Statistics" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=M1racleScr1pt&layout=compact&theme=dark&hide_border=true" alt="M1racleScr1pt's Top Languages" />
+
+</div>
+
+<div align="center">
+
+  <img src="https://streak-stats.demolab.com?user=M1racleScr1pt&theme=dark&hide_border=true" alt="M1racleScr1pt's Contribution Streak" />
+
+</div>
 
 <br/><br/>
 
 ---
+
+Current Date and Time (UTC - YYYY-MM-DD HH:MM:SS formatted): 2026-01-08 13:22:29
+Current User's Login: M1racleScr1pt
