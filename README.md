@@ -34,12 +34,28 @@ Passionate about **Cybersecurity • DevSecOps • AI/ML • Cloud Security**
 
 <br/><br/>
 
-## 📊 GitHub Stats
+## 🛠️ Tech Stack & Skills
 
-![M1racleScr1pt's GitHub stats](https://github-readme-stats.vercel.app/api?username=M1racleScr1pt&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=FFFFFF&icon_color=58A6FF)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,git,github,python,java,typescript,linux&perline=12&theme=dark" alt="My Skills" />
+  </a>
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=M1racleScr1pt&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=FFFFFF)
+## 📊 GitHub Metrics
 
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=M1racleScr1pt&label=Profile%20Views&color=58A6FF&style=flat-square" alt="Profile Views" />
+</p>
+
+<p align="left">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=M1racleScr1pt&theme=tokyonight" alt="GitHub Stats Summary" />
+
+<!-- Profile Summary Cards – modern, reliable replacement for the broken advanced metrics -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=M1racleScr1pt&theme=tokyonight" alt="Profile Details" />
+</p>
+ 
 <br/><br/>
 
 ---
